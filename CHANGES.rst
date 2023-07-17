@@ -2,7 +2,7 @@ Changelog
 =========
 
 1.0.3.dev (unreleased)
-------------------
+----------------------
 
 -upcoming changes
 
