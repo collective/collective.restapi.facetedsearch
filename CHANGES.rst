@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.4.dev (unreleased)
+----------------------
+- removed wrong setting of python_require in setup ("== 2.7"); its not tested for 2.7
+
+
 1.0.3 (2023-07-17)
 ------------------
 
